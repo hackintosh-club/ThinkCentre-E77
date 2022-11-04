@@ -6,3 +6,6 @@ ThinkCentre-E77 Intel Gen10 Hackintosh EFI
 - 2666 8G*2
 - 1T SN550 SSD
 
+
+
+### BIOS
