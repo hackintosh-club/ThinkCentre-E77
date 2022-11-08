@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts
@@ -17,7 +17,7 @@
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.6](https://github.com/acidanthera/AppleALC)
 - [RealtekRTL8111.kext 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 - [USBMap.kext v1.0.0](https://github.com/corpnewt/USBMap)
 
