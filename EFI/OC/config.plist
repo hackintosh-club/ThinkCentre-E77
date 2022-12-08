@@ -120,10 +120,6 @@
 				<data>
 				BwCbPg==
 				</data>
-				<key>device-id</key>
-				<data>
-				mz4AAA==
-				</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -382,7 +378,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
