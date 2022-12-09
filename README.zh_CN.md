@@ -4,6 +4,15 @@
 ### [English](README.md)
 
 
+### Screenshot
+
+![macOS Ventura](Screenshot/about.png)
+
+![Info](Screenshot/info.png)
+
+![Geekbench 5](Screenshot/geekbench5.png)
+
+
 ### OpenCore
 
 [OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
