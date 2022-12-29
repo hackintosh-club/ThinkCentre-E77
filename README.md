@@ -15,7 +15,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts
