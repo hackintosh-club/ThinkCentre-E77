@@ -18,6 +18,18 @@
 [OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
 
 
+### Spec
+
+- Chipset: B460
+- CPU: Intel 10th i5-10400
+- Memo: Samsung 16GB(2x8GB) DDR4 2666 Mhz
+- iGPU: Intel UHD Graphic 630
+- HDA: Realtek ALC256
+- SSD: WD SN750 512G
+- LAN: Realtek RTL8111HSD
+- WLAN: BCM943602CS
+
+
 ### Kexts
 
 - [Lilu.kext 1.6.2](https://github.com/acidanthera/Lilu)
