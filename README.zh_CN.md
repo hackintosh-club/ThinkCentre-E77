@@ -15,7 +15,7 @@
 - 处理器: Intel i5-10400
 - 内存: 三星 16GB(2x8GB) DDR4 2666 Mhz
 - 显卡: 英特尔® 超核芯显卡 630
-- 声卡: Realtek ALC256
+- 声卡: Realtek ALC623
 - 硬盘: 西数黑盘 SN750 512G
 - 网卡: Realtek RTL8111
 - 无线: BCM943602CS（白果拆机卡）

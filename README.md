@@ -15,7 +15,7 @@
 - CPU: Intel 10th i5-10400
 - Memo: Samsung 16GB(2x8GB) DDR4 2666 Mhz
 - iGPU: Intel UHD Graphic 630
-- HDA: Realtek ALC256
+- HDA: Realtek ALC623
 - SSD: WD SN750 512G
 - LAN: Realtek RTL8111HSD
 - WLAN: BCM943602CS
