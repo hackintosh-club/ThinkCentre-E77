@@ -21,6 +21,35 @@
 - WLAN: BCM943602CS
 
 
+### BIOS
+
+```
+Devices
+  |-- Serial Port Setup
+    |-- Serial Port1 Address: Disabled
+  |-- ATA Drive Setup
+    |-- Configure STAT as: ACHI
+  |-- Video Setup
+    |-- Select Active Video: IGD
+    |-- Pre-Allocated Memory Size: 64MB
+    |-- Total Graphics Memory: Maximum
+
+Advanced
+  |-- CPU Setup
+    |-- Intel(R) Hyper-Threading Technology: Enabled
+    |-- Core Multi-Processing: Enabled
+    |-- Intel(R) Virtualization Technology: Enabled
+    |-- VT-d Feature: Disabled
+
+Security
+  |-- Secure Boot
+    |-- Secure Boot: Disabled
+
+Startup
+  |-- Fast Boot: Disabled
+```
+
+
 ### Screenshot
 
 ![macOS Ventura](Screenshot/about.png)
