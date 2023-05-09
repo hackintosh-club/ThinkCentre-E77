@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Spec
@@ -61,13 +61,13 @@ Startup
 
 ### Kexts
 
-- [Lilu.kext 1.6.4](https://github.com/acidanthera/Lilu)
+- [Lilu.kext 1.6.5](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.2](https://github.com/acidanthera/AppleALC)
 - [RealtekRTL8111.kext 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 - [XHCI-unsupported.kext 0.9.2](https://github.com/hackintosh-efi/XHCI-unsupported)
 
