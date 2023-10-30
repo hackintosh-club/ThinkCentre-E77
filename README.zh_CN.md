@@ -39,7 +39,6 @@
     |-- Intel(R) HT技术: 打开
     |-- 多核心处理功能: 打开
     |-- Intel(R) Virtualization技术: 打开
-    |-- VT-d: 关闭
 
 安全菜单
   |-- 安全启动
