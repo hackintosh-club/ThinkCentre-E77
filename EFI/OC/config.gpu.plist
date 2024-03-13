@@ -227,7 +227,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.8.8</string>
+					<string>V1.8.9</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -602,13 +602,13 @@
 				<key>AdviseFeatures</key>
 				<false/>
 				<key>MLB</key>
-				<string>C02241701GUPHC1A8</string>
+				<string>C022339024NPHC1A8</string>
 				<key>MaxBIOSVersion</key>
 				<false/>
 				<key>ProcessorType</key>
 				<integer>0</integer>
 				<key>ROM</key>
-				<data>BUXmT18m</data>
+				<data>AAAAAAAA</data>
 				<key>SpoofVendor</key>
 				<true/>
 				<key>SystemMemoryStatus</key>
@@ -616,9 +616,9 @@
 				<key>SystemProductName</key>
 				<string>iMac20,1</string>
 				<key>SystemSerialNumber</key>
-				<string>C02JJ0KHPN5T</string>
+				<string>C02J7PZLPN5T</string>
 				<key>SystemUUID</key>
-				<string>BE0AA8D3-EEDB-4700-AFDE-66B417F5A44E</string>
+				<string>819345EE-E292-4F76-AA41-E3EFD40D7D3B</string>
 			</dict>
 			<key>UpdateDataHub</key>
 			<true/>
