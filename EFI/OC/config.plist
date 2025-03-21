@@ -69,6 +69,8 @@
 				<false/>
 				<key>AvoidRuntimeDefrag</key>
 				<true/>
+				<key>ClearTaskSwitchBit</key>
+				<false/>
 				<key>DevirtualiseMmio</key>
 				<true/>
 				<key>DisableSingleUser</key>
@@ -157,7 +159,7 @@
 					<key>BundlePath</key>
 					<string>VirtualSMC.kext</string>
 					<key>Comment</key>
-					<string>V1.3.4</string>
+					<string>V1.3.5</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -175,7 +177,7 @@
 					<key>BundlePath</key>
 					<string>SMCProcessor.kext</string>
 					<key>Comment</key>
-					<string>V1.3.4</string>
+					<string>V1.3.5</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -193,7 +195,7 @@
 					<key>BundlePath</key>
 					<string>SMCSuperIO.kext</string>
 					<key>Comment</key>
-					<string>V1.3.4</string>
+					<string>V1.3.5</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -229,7 +231,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.9.3</string>
+					<string>V1.9.4</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -247,7 +249,7 @@
 					<key>BundlePath</key>
 					<string>RealtekRTL8111.kext</string>
 					<key>Comment</key>
-					<string>V2.4.2</string>
+					<string>V2.5.0</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
